@@ -1,7 +1,7 @@
 # Write your solution here
 begin
 
-puts "Hello world!"
+puts "Hello World!"
 
 end 
 
